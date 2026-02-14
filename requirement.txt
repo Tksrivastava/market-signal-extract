@@ -6,4 +6,7 @@ python-dotenv==1.0.1
 langchain-community>=0.2.0,<0.3.0
 tqdm==4.67.3
 streamlit==1.18.0
+altair==4.2.2
 langchain-groq==0.1.9
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
