@@ -1,0 +1,9 @@
+[
+    {
+        "facts": "- Aluminium prices have fallen by 0.8% to $2,044 per metric ton on the London Metal Exchange (LME), marking its lowest level since November 18.\n- The falling oil prices indicate a decline in aluminium prices as well, with the most significant drop occurring within a week.\n- Despite not being the primary source of energy for aluminum production, fuel costs account for nearly 30% of total production expenses. Therefore, the decrease in fuel prices may lead to deflationary impacts on aluminum prices.\n- Head of commodity strategy at TD Securities, Bart Melek, suggests that the entire commodity complex is reacting to crude oil and U.S. dollar strength. This reaction could be influenced by potential headlines and reduced availability of Petro dollars for investing in commodities.\n- Exclusive data-driven insights and real-time historical price trends from global indices are available for access.",
+        "classified_signals": "Raw materials / Input costs:\n- Decrease in fuel prices leading to deflationary impacts on aluminum prices.\n\nMacro / Financial Factors:\n- Head of commodity strategy at TD Securities suggests that the entire commodity complex is reacting to crude oil and U.S. dollar strength, indicating a broad market reaction influenced by energy prices and currency strength.\nNone\n\nGeo-political:\nGovernment policy:\nSupply chain:\nInventory:\nTrade flow:\nPhysical demand:\nTechnology:",
+        "price_bias": "Bearish  \nThe signal of falling input costs (decrease in fuel prices) leading to deflationary impacts on aluminum prices dominates, indicating a bearish bias.",
+        "date": "2014-12-01 00:00:00",
+        "link": "https://www.alcircle.com/news/drop-in-crude-oil-prices-affects-aluminium-prices-20290"
+    }
+]
