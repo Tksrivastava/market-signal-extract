@@ -94,17 +94,4 @@ class LLMPrompts:
     - Maintain an objective, professional market-analysis tone.
     - Keep the article concise and information-dense.
     - Keep all the numeric figures and dates intact.
-    - **DO NOT MAKE ANY MISTAKE**
-
-    OUTPUT FORMAT (MANDATORY):
-
-    # LME Aluminium Market Update
-
-    ## Key Market Signals
-    Summarize the most important signals and their economic implications in 1–2 short paragraphs.
-
-    ## Price Outlook
-    Explain the expected price direction using the provided bias and supporting signals.
-
-    ## Market Interpretation
-    Provide a brief concluding interpretation connecting signals to market dynamics."""
+    - **DO NOT MAKE ANY MISTAKE**"""
